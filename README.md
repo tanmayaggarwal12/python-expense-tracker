@@ -83,9 +83,6 @@ The project is tested by running it and checking the output by hand. Run `python
 | Areas `food travel`, amounts `100` | `Invalid input` (counts do not match) |
 | Amounts `100 abc` | `Invalid input` |
 
-## Screenshots
-
-Screenshots of sample runs are in `docs/screenshots/`.
 
 ## Documentation
 
