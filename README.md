@@ -16,7 +16,8 @@ This is my project for the VITyarthi *Build Your Own Project* evaluation. I firs
 
 ## Technologies used
 
-- Python 3.8 or newer (tested on 3.12)
+- Python 3.15 (the version I used to run and test the project)
+- Visual Studio Code (VS Code) as the code editor
 - No external libraries – nothing to install
 - Git and GitHub for version control
 
